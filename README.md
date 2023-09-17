@@ -49,3 +49,22 @@ You can install these libraries using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn plotly folium jupyter
 
+## Setup and Usage
+1 .Clone this repository to your local machine:
+```bash
+git clone https://github.com/your-username/covid19-eda-project.git
+2. Navigate to the project directory:
+```bash
+cd Covid_Analysis
+3. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+4. Open and run the Jupyter notebook to explore the analysis and visualizations.
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature: git checkout -b feature-name.
+3. Commit your changes: git commit -m 'Added a new feature'.
+4. Push to your branch: git push origin feature-name.
+5. Submit a pull request.
