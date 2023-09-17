@@ -12,7 +12,7 @@ This repository contains the code and data for an Exploratory Data Analysis (EDA
 - [Requirements](#requirements)
 - [Setup and Usage](#setup-and-usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
