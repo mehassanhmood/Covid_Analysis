@@ -46,18 +46,18 @@ The project was developed using Python and the following libraries:
 
 You can install these libraries using pip:
 
-```bash
+```bash```
 pip install pandas numpy matplotlib seaborn plotly folium jupyter
 
 ## Setup and Usage
 1 .Clone this repository to your local machine:
-```bash
+```bash```
 git clone https://github.com/your-username/covid19-eda-project.git
 2. Navigate to the project directory:
-```bash
+```bash```
 cd Covid_Analysis
 3. Launch Jupyter Notebook:
-```bash
+```bash```
 jupyter notebook
 4. Open and run the Jupyter notebook to explore the analysis and visualizations.
 ## Contributing
