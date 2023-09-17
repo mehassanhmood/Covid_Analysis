@@ -22,10 +22,8 @@ The COVID-19 pandemic has had a significant impact on the world. This EDA projec
 
 The project is organized as follows:
 
-- **data/**: This directory contains the raw and processed data used in the analysis.
-- **notebooks/**: Jupyter notebooks used for data analysis and visualization.
-- **scripts/**: Python scripts for data preprocessing and cleaning.
-- **results/**: Visualizations, plots, or any other results generated during the analysis.
+- **Data**: Two Data sources were utilized one a snapshot at a time and point and another which is time series
+- **notebook**: Jupyter notebook used for data analysis and visualization.
 - **README.md**: This file provides an overview of the project.
 
 ## Data Sources
